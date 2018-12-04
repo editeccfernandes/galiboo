@@ -31,7 +31,7 @@ Edite Fernandes
 **Downloads** 
 https://github.com/editeccfernandes/galiboo/tree/master/docs
 
-## Acesso ao backoffie, algumas boas práticas e troubleshooting:
+## Acesso ao backoffice, algumas boas práticas e troubleshooting:
 
 ### Acesso ao backoffice:
 O acesso ao backoffice por opção está aberto a toda a comunidade. Isto significa que podem escrever o que quiser mas sejam pessoas simpáticas.
@@ -66,3 +66,4 @@ A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta p
 #### Outras perguntas:
 
  1. Podes sempre deixar nos comentários do site, I guess.
+ 2. Podes consultar o código PHP aqui já que no site hospedado não o vais conseguir ver.
