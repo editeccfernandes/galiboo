@@ -1,0 +1,34 @@
+*   Trying 104.28.27.30...
+* TCP_NODELAY set
+* Connected to secure.galiboo.com (104.28.27.30) port 443 (#0)
+* ALPN, offering http/1.1
+* ignoring certificate verify locations due to disabled peer verification
+* SSL connection using TLSv1.2 / ECDHE-ECDSA-CHACHA20-POLY1305
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; OU=PositiveSSL Multi-Domain; CN=sni212048.cloudflaressl.com
+*  start date: Nov 25 00:00:00 2018 GMT
+*  expire date: Jun  3 23:59:59 2019 GMT
+*  subjectAltName: host "secure.galiboo.com" matched cert's "*.galiboo.com"
+*  issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO ECC Domain Validation Secure Server CA 2
+*  SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+> POST /api/discover/tracks/smart_search/?token=33c056e7c1daf40e31a4205955f51da4d5fe15e3&thershold=0.5&count=1&page=1&q= HTTP/1.1
+Host: secure.galiboo.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Length: 143
+Content-Type: application/x-www-form-urlencoded
+
+* upload completely sent off: 143 out of 143 bytes
+< HTTP/1.1 400 BAD REQUEST
+< Date: Sun, 25 Nov 2018 23:32:54 GMT
+< Content-Type: application/json
+< Content-Length: 120
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d5e75e47475e4d44e09d9c4e15186e1ed1543188773; expires=Mon, 25-Nov-19 23:32:53 GMT; path=/; domain=.galiboo.com; HttpOnly; Secure
+< X-Sentry-ID: 867215d486c045cdb3e61f722b1bd9df
+< Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< CF-RAY: 47f7eacd0d569762-FRA
+< 
+* Connection #0 to host secure.galiboo.com left intact
