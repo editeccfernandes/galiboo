@@ -49,7 +49,7 @@ A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta p
 #### A análise não funciona ou demora muitoooo tempo:
 1. Os pedidos foram esgotados;
 2. A música que escolheste está a retornar um erro 200;
-3. O pedido excedeu o limite máximo;
+3. O pedido excedeu o limite máximo de duração (demorou demasiado tempo a pedir);
 4. O vídeo não foi reconhecido (o mesmo que está no ponto 2 mas mais simplificado); 
 5. A tua internet não está a colaborar.
 
