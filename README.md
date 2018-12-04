@@ -5,7 +5,7 @@ Galiboo Music AI: Case Study
 
 ## Sobre o projeto
 
-Na continuação do 1.º trabalho de Laboratório de Aplicações Interativas onde o objetivo era criar uma aplicação interativa, neste 2.º trabalho o objetivo era criar um gestor de conteúdos. Eu decidi que sendo sobre Inteligência Artificial e sendo interativa, podia explorar um pouco uma API recente chamada Galiboo Music AI, uma inteligência artificial que analisa música (entre várias outras funcionalidades).
+Na continuação do [1.º trabalho de Laboratório de Aplicações Interativas](https://github.com/editeccfernandes/i-am-ai) onde o objetivo era criar uma aplicação interativa, neste 2.º trabalho o objetivo era criar um gestor de conteúdos. Eu decidi que sendo sobre Inteligência Artificial e sendo interativa, podia explorar um pouco uma API recente chamada Galiboo Music AI, uma inteligência artificial que analisa música (entre várias outras funcionalidades).
 
 ## Website URL
 
@@ -47,13 +47,11 @@ A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta p
 ### Troubleshooting:
 
 #### A análise não funciona ou demora muitoooo tempo:
-
- 1. Os pedidos foram esgotados 
- 2. A música que escolheste está a retornar um erro 200
- 3. O pedido excedeu o limite máximo 
+1. Os pedidos foram esgotados 
+2. A música que escolheste está a retornar um erro 200
+3. O pedido excedeu o limite máximo 
 4. O vídeo não foi reconhecido (o mesmo que está no ponto 2 mas mais simplificado) 
 5. A tua internet não está a colaborar
-6.
 
 #### A seleção por *range* retorna sempre The Shins:
 1. A API está em beta e os endpoints estão  sempre a mudar, sorry, torna-se um pouco imprevisível de quando a situação pode mudar.
