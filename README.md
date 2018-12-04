@@ -40,7 +40,7 @@ Os campos podem ser submetidos vazios.
 ### Boas práticas:
 Ambas APIs usadas neste projeto estão em fase beta o que significa que se me perguntarem, funciona ou não funciona, eis a questão. Sei que funciona em Google Chrome, no resto, sei que a API de Web Speech não dá. 
 
-A API da Galiboo Music AI  tem 250 pedidos disponíveis por mês dos quais, 25 análises de músicas do Youtube. Evitem VEVOs, playlists e gostaria imenso de dizer que assim tenho a certeza que funciona, só que não. Cada chamada para analisar uma música desconta no plafond gratuito por isso usa com moderação.
+A API da Galiboo Music AI  tem 250 pedidos disponíveis por mês, dos quais, 25 análises de músicas do Youtube. Evitem VEVOs, playlists e gostaria imenso de dizer que assim tenho a certeza que funciona, só que não. Cada chamada para analisar uma música desconta no plafond gratuito por isso usa com moderação.
 
 A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta palavra) está limitada porque, well, já mencionei que a API está em fase beta? pronto, então é por causa disso. Dos meus testes que incluíram colocar cerca de 30 ou mais parâmetros com valores aleatórios (loucura total), a resposta foi praticamente a mesma. Se não variar, não consigo fazer muito sobre o assunto.
 
