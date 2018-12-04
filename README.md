@@ -47,20 +47,20 @@ A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta p
 ### Troubleshooting:
 
 #### A análise não funciona ou demora muitoooo tempo:
-1. Os pedidos foram esgotados 
-2. A música que escolheste está a retornar um erro 200
-3. O pedido excedeu o limite máximo 
-4. O vídeo não foi reconhecido (o mesmo que está no ponto 2 mas mais simplificado) 
-5. A tua internet não está a colaborar
+1. Os pedidos foram esgotados;
+2. A música que escolheste está a retornar um erro 200;
+3. O pedido excedeu o limite máximo;
+4. O vídeo não foi reconhecido (o mesmo que está no ponto 2 mas mais simplificado); 
+5. A tua internet não está a colaborar.
 
 #### A seleção por *range* retorna sempre The Shins:
 1. A API está em beta e os endpoints estão  sempre a mudar, sorry, torna-se um pouco imprevisível de quando a situação pode mudar.
 
 #### O Web Speech não funciona:
-1. Tens de estar em Google Chrome para funcionar, é uma funcionalidade que ainda está em draft
-2. Fala perto do microfone, haverás de ver algumas mudanças no texto
-3.  Não complexifiques a procura
-4. Só funciona em inglês
+1. Tens de estar em Google Chrome para funcionar, é uma funcionalidade que ainda está em draft;
+2. Fala perto do microfone, haverás de ver algumas mudanças no texto;
+3.  Não complexifiques a procura;
+4. Só funciona em inglês.
 
 
 #### Outras perguntas:
