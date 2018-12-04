@@ -48,10 +48,9 @@ A seleção por...*range*...(ou qualquer outra tradução portuguesa para esta p
 
 #### A análise não funciona ou demora muitoooo tempo:
 1. Os pedidos foram esgotados;
-2. A música que escolheste está a retornar um erro 200;
+2. A música que escolheste está a retornar um erro 200, o que é Ok mas no entanto o vídeo não é reconhecido;
 3. O pedido excedeu o limite máximo de duração (demorou demasiado tempo a pedir);
-4. O vídeo não foi reconhecido (o mesmo que está no ponto 2 mas mais simplificado); 
-5. A tua internet não está a colaborar.
+4. A tua internet não está a colaborar.
 
 #### A seleção por *range* retorna sempre The Shins:
 1. A API está em beta e os endpoints estão  sempre a mudar, sorry, torna-se um pouco imprevisível de quando a situação pode mudar.
